@@ -2,7 +2,7 @@ from psychopy import visual, core, event, data, gui, monitors
 import os, csv, random
 import pandas as pd
 
-os.chdir(r"D:\NBM\Experiment")
+os.chdir(r"https://github.com/Raagul-tr/NBM")
 
 # ---------------------------------------------------------
 # Utility: Get slider response with the specified question
