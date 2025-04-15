@@ -7,7 +7,7 @@ import math
 import time
 
 
-os.chdir(r"D:\NBM\Experiment")
+os.chdir(r"https://github.com/Raagul-tr/NBM")
 
 def run_psychopy_experiment():
     # Monitor specs
